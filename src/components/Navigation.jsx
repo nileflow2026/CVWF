@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { MenuIcon, XIcon } from "@heroicons/react/outline";
+import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import { NAVIGATION_LINKS } from "../data/constants";
 
 const Navigation = () => {
@@ -83,9 +83,9 @@ const Navigation = () => {
               aria-label="Toggle main menu"
             >
               {mobileMenuOpen ? (
-                <XIcon className="w-6 h-6" aria-hidden="true" />
+                <XMarkIcon className="w-6 h-6" aria-hidden="true" />
               ) : (
-                <MenuIcon className="w-6 h-6" aria-hidden="true" />
+                <Bars3Icon className="w-6 h-6" aria-hidden="true" />
               )}
             </button>
           </div>

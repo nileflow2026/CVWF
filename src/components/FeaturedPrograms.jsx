@@ -1,5 +1,5 @@
 import React from "react";
-import { ArrowRightIcon } from "@heroicons/react/outline";
+import { ArrowRightIcon } from "@heroicons/react/24/outline";
 import { FEATURED_PROGRAMS } from "../data/constants";
 import ProgramCard from "./ProgramCard";
 

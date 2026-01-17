@@ -4,7 +4,7 @@ import {
   UserGroupIcon,
   GlobeAltIcon,
   StarIcon,
-} from "@heroicons/react/outline";
+} from "@heroicons/react/24/outline";
 import { IMPACT_STATS } from "../data/constants";
 
 const iconMap = {

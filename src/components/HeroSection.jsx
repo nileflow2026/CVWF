@@ -4,8 +4,8 @@ import {
   StarIcon,
   PlayIcon,
   CheckIcon,
-} from "@heroicons/react/outline";
-import { UserGroupIcon } from "@heroicons/react/outline";
+} from "@heroicons/react/24/outline";
+import { UserGroupIcon } from "@heroicons/react/24/outline";
 import DonationWidget from "./DonationWidget";
 import Navigation from "./Navigation";
 

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { HeartIcon } from "@heroicons/react/outline";
+import { HeartIcon } from "@heroicons/react/24/outline";
 import { QUICK_DONATION_AMOUNTS } from "../data/constants";
 
 const DonationWidget = ({ onDonationClick }) => {

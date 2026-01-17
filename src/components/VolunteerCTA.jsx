@@ -1,5 +1,5 @@
 import React from "react";
-import { UserGroupIcon, GlobeAltIcon } from "@heroicons/react/outline";
+import { UserGroupIcon, GlobeAltIcon } from "@heroicons/react/24/outline";
 
 const VolunteerCTA = () => {
   const handleApplyVolunteer = () => {
